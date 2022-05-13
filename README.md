@@ -1,0 +1,2 @@
+# NLP-Parts-of-Speech-Tagging
+An application of Natural Language Processing (NLP) techniques to the popular domain of Parts-of-Speech (POS) Tagging. Essentially, given a sequence of English words, the program must assign these words the correct parts of speech. This project utilizes Hidden Markov Models (HMMs), Viterbi's algorithm, and various dynamic programming approaches to achieve nearly 98% accuracy in this task.
